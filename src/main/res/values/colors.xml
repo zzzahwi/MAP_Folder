@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- Default app colors -->
+        <color name="purple_200">#BB86FC</color>
+        <color name="purple_500">#6200EE</color>
+        <color name="purple_700">#3700B3</color>
+        <color name="teal_200">#03DAC5</color>
+        <color name="teal_700">#018786</color>
+        <color name="black">#000000</color>
+        <color name="white">#FFFFFF</color>
+
+        <!-- Custom colors -->
+        <color name="primary_color">#1E88E5</color>
+        <color name="secondary_color">#FFC107</color>
+        <color name="background_color">#F5F5F5</color>
+        <color name="text_primary">#212121</color>
+        <color name="text_secondary">#757575</color>
+
+</resources>

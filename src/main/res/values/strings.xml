@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Music Streamer</string>
+    <string name="no_lyrics_available">Lirik tidak tersedia.</string>
+    <string name="no_lyrics_found">Lirik tidak ditemukan.</string>
+    <string name="failed_to_load_lyrics">Gagal memuat lirik.</string>
+    <string name="cover_image_desc">Cover image of the song</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="app_logo">Logo Aplikasi</string>
+    <string name="user_icon">Ikon User</string>
+    <string name="back_button">Back</string>
+    <string name="logout">Log Out</string>
+    <string name="nickname_placeholder">Nickname</string>
+    <string name="email_placeholder">Email Address</string>
+</resources>
